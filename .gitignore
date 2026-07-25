@@ -1,0 +1,15 @@
+# Ignore training data and audio files
+healthy/
+stenosed/
+noisy_healthy/
+noisy_murmur/
+*.wav
+*.mp3
+*.m4a
+*.dat
+*.hea
+REFERENCE.csv
+
+# Ignore Python cache
+__pycache__/
+.ipynb_checkpoints/
